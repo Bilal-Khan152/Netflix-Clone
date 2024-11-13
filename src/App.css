@@ -1,0 +1,48 @@
+ /* .Bcg{
+     background-image: url('/src/images/the_netflix_login_background__canada__2024___by_logofeveryt_dh0w8qv-fullview.jpg'); 
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5) ; 
+    background-blend-mode: multiply;    
+
+  } */
+/* .Font{
+      font-family: Arial, Helvetica, sans-serif; 
+  } */
+/*  
+.bor{
+    border: 2px solid red;
+    
+} */
+/* 
+.btN
+{
+    background-color: #F50914;
+} */
+/* 
+ .login{
+    background: transparent;
+    background: rgba(0, 0, 0, 0.75);
+    
+}  */
+
+.InPut{
+    /* bg-[#333] bg-[rgba(0,0,0,0,0.35)] */
+        /* background-color: #333;   */
+
+      background: rgba(27, 27, 27, 0.6);
+     /* background: rgba(#333 , 0 , 0 , 0 , 0.35);   */
+}  
+/* 
+.OPTION{ 
+     
+    background-color: rgba(51, 45, 45, 0.671);
+    border: 1px solid gray;
+} */
+ 
+/* 
+.Netflix{
+    background-color: transparent;
+    padding: 0;
+    border: none;
+} */
