@@ -30,7 +30,7 @@ const Login = () => {
          rounded-tr-md
           rounded-tl-md
           
-            lg:py-4 lg:px-16
+            lg:py-16 lg:px-16
              xl:py-12   xl:px-16
              md:py-8
              md:px-16
@@ -103,7 +103,7 @@ const Login = () => {
           <p className="text-white hover:underline">Forget password?</p>
         </div>
 
-        <div className=" mt-4  md:mt-5 lg:mt-5 xl:ms-2 xl:mt-16">
+        <div className=" mt-4  md:mt-5 lg:mt-10 xl:ms-2 xl:mt-16">
           <p className="text-white">
             New to Netflix?{" "}
             <span className="font-bold hover:underline cursor-pointer">
